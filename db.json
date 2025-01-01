@@ -1,0 +1,29 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Sundar Pichai Interview",
+            "body": "Discussing the future of tech"
+        },
+        {
+            "id": "2",
+            "title": "AI and Ethics",
+            "body": "Exploring the ethical challenges of artificial intelligence"
+        },
+        {
+            "id": "3",
+            "title": "Climate Change Solutions",
+            "body": "Innovative approaches to mitigating climate change"
+        },
+        {
+            "id": "4",
+            "title": "Quantum Computing Breakthroughs",
+            "body": "Recent advancements in quantum computing technology"
+        },
+        {
+            "id": "5",
+            "title": "The Rise of Electric Vehicles",
+            "body": "How electric vehicles are changing the transportation industry"
+        }
+    ]
+}
